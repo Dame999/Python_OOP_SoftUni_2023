@@ -2,80 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6d7f73b-af4a-4410-9d8f-265ed57b2b3d" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/aquarium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/aquarium/base_aquarium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/aquarium/freshwater_aquarium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/aquarium/saltwater_aquarium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/decoration/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/decoration/base_decoration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/decoration/decoration_repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/decoration/ornament.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/decoration/plant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/fish/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/fish/base_fish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/fish/freshwater_fish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/fish/saltwater_fish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/horse_race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/horse_race_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/horse_specification/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/horse_specification/appaloosa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/horse_specification/horse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/horse_specification/thoroughbred.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/jockey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/test_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/supply/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/supply/drink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/supply/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/supply/supply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/test_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/movie_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/movie_specification/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/movie_specification/action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/movie_specification/fantasy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/movie_specification/movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/movie_specification/thriller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/test_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/countdown_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/dictionary_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/fibonacci_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/possible_permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/prime_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/sequence_repeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/take_halves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/take_skip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/01. Mammal_Skeleton/mammal/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/01. Mammal_Skeleton/mammal/project/mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/01. Mammal_Skeleton/mammal/test.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/01. Mammal_Skeleton/mammal/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/01. Mammal_Skeleton/mammal/test/test_mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/02. Vehicle_Skeleton/vehicle/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/02. Vehicle_Skeleton/vehicle/project/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/02. Vehicle_Skeleton/vehicle/test.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/02. Vehicle_Skeleton/vehicle/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/02. Vehicle_Skeleton/vehicle/test/test_vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/03. Hero_Skeleton/hero/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/03. Hero_Skeleton/hero/project/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/03. Hero_Skeleton/hero/test.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/03. Hero_Skeleton/hero/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/03. Hero_Skeleton/hero/test/test_hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/04. Student_Skeleton/student/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/04. Student_Skeleton/student/project/student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/04. Student_Skeleton/student/tests.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/04. Student_Skeleton/student/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/04. Student_Skeleton/student/tests/test_student.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python_OOP_SoftUni_2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP_SoftUni_2023.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/hotel_everland/project/appliances/fridge.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/hotel_everland/project/appliances/fridge.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678991677670</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1680087200396</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680087200396</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1680087211963</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680087211963</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
