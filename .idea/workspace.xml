@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6d7f73b-af4a-4410-9d8f-265ed57b2b3d" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/Python_OOP_SoftUni_2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP_SoftUni_2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/hotel_everland/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/hotel_everland/project/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/hotel_everland/project/appliances/appliance.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/hotel_everland/project/appliances/appliance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/hotel_everland/project/appliances/fridge.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/hotel_everland/project/appliances/fridge.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +52,7 @@
       <recent name="C:\Users\dames\PycharmProjects\Python_OOP_SoftUni_2023\encapsulation_exercise\Restaurant\project\beverage" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_student.TestStudent">
+  <component name="RunManager" selected="Python.fridge">
     <configuration name="controller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_OOP_SoftUni_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="player" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fridge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_OOP_SoftUni_2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/hotel_everland/project/appliances" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/player.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/hotel_everland/project/appliances/fridge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fridge" />
         <item itemvalue="Python tests.Python tests for test_student.TestStudent" />
         <item itemvalue="Python.freshwater_fish" />
         <item itemvalue="Python.test_input" />
         <item itemvalue="Python.controller" />
-        <item itemvalue="Python.player" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680087211963</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1680087291734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680087291734</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +227,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/Dame999-first_steps_in_OOP_exercise" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
