@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/exam_preparation_april_2023_Soft_Uni/hotel_everland" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unit_testitng_exercise/04. Student_Skeleton/student" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
