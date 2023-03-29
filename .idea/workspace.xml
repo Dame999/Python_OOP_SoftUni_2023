@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6d7f73b-af4a-4410-9d8f-265ed57b2b3d" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/aquarium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/aquarium/base_aquarium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/aquarium/freshwater_aquarium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/aquarium/saltwater_aquarium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/decoration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/decoration/base_decoration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/decoration/decoration_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/decoration/ornament.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/decoration/plant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/fish/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/fish/base_fish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/fish/freshwater_fish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/fish/saltwater_fish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/horse_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/horse_race_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/horse_specification/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/horse_specification/appaloosa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/horse_specification/horse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/horse_specification/thoroughbred.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/jockey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/horse_racing/project/test_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/supply/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/supply/drink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/supply/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/supply/supply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/test_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/movie_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/movie_specification/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/movie_specification/action.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/movie_specification/fantasy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/movie_specification/movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/movie_specification/thriller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/test_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/movie_app/project/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/countdown_iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/dictionary_iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/fibonacci_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/possible_permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/prime_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/sequence_repeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/take_halves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iterators_and_generators_exercise/take_skip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/01. Mammal_Skeleton/mammal/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/01. Mammal_Skeleton/mammal/project/mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/01. Mammal_Skeleton/mammal/test.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/01. Mammal_Skeleton/mammal/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/01. Mammal_Skeleton/mammal/test/test_mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/02. Vehicle_Skeleton/vehicle/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/02. Vehicle_Skeleton/vehicle/project/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/02. Vehicle_Skeleton/vehicle/test.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/02. Vehicle_Skeleton/vehicle/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/02. Vehicle_Skeleton/vehicle/test/test_vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/03. Hero_Skeleton/hero/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/03. Hero_Skeleton/hero/project/hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/03. Hero_Skeleton/hero/test.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/03. Hero_Skeleton/hero/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/03. Hero_Skeleton/hero/test/test_hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/04. Student_Skeleton/student/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/04. Student_Skeleton/student/project/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/04. Student_Skeleton/student/tests.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/04. Student_Skeleton/student/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_testitng_exercise/04. Student_Skeleton/student/tests/test_student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_OOP_SoftUni_2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP_SoftUni_2023.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MCZhIMpEJ5cC09aDKQxGKti2r1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dames/Downloads/exercise-resources&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dames\PycharmProjects\Python_OOP_SoftUni_2023\SOLID_excercise" />
+      <recent name="C:\Users\dames\PycharmProjects\Python_OOP_SoftUni_2023\polymorphism_and_abstraction_exercise\WildFarm\project" />
+      <recent name="C:\Users\dames\PycharmProjects\Python_OOP_SoftUni_2023\encapsulation_exercise\Restaurant\project" />
+      <recent name="C:\Users\dames\PycharmProjects\Python_OOP_SoftUni_2023\encapsulation_exercise\Restaurant\project\food" />
+      <recent name="C:\Users\dames\PycharmProjects\Python_OOP_SoftUni_2023\encapsulation_exercise\Restaurant\project\beverage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_student.TestStudent">
+    <configuration name="controller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP_SoftUni_2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/controller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="freshwater_fish" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP_SoftUni_2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/fish" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/aqua_shop_project/project/fish/freshwater_fish.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="player" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP_SoftUni_2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/player.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP_SoftUni_2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/test_input.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_student.TestStudent" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP_SoftUni_2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit_testitng_exercise/04. Student_Skeleton/student/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_student.TestStudent&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_student.TestStudent" />
+        <item itemvalue="Python.freshwater_fish" />
+        <item itemvalue="Python.test_input" />
+        <item itemvalue="Python.controller" />
+        <item itemvalue="Python.player" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6d7f73b-af4a-4410-9d8f-265ed57b2b3d" name="Changes" comment="" />
+      <created>1677273642262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677273642262</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1677273771576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677273771576</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1677430770276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677430770276</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1678450347956</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678450347956</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1678991677670</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678991677670</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/encapsulation_exercise/Wild_Cat_Zoo/project/test_code.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/static_and_class_methods_lab/hotel_rooms/project/test_code.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/encapsulation_exercise/Pizza_Maker/project/test_code.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/static_and_class_methods_exercise/photo_album.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/static_and_class_methods_exercise/Moovie_World/project/test_code.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/polymorphism_and_abstraction_exercise/Groups/groups.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/polymorphism_and_abstraction_exercise/WildFarm/project/animals/mammals.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/polymorphism_and_abstraction_exercise/Formula/project/f1_season_app.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/concert_tracker_app/project/test_code.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/christmas_pastry_shop/project/test_code.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/food_orders_app/project/test_code.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/iterators_and_generators_exercise/take_skip.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/iterators_and_generators_exercise/take_halves.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/iterators_and_generators_exercise/prime_numbers.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exam_preparation_april_2023_Soft_Uni/medieval_games/project/test_input.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
